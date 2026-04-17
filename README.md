@@ -1,1 +1,0 @@
-# WYNx_frontend
